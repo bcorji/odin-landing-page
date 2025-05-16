@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto';
+}
+header {
+    display: flex;
+    background-color: #1f2937;
+    padding: 20px 15%;
+}
+#logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+header .headerlinks {
+    flex: 1;
+}
+.div1 {
+    background-color: #1f2937;
+}
+footer {
+    background-color: #1f2937;
+}
