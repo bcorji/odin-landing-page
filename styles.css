@@ -156,3 +156,21 @@ body {
   text-align: center;
   padding: 20px;
 }
+
+/* More code */
+
+button {
+  transition: transform 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
